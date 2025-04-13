@@ -1,1 +1,3 @@
-# fastapi-varu22
+# tiktok-varu
+
+Aplicație FastAPI deployată pe Render.
